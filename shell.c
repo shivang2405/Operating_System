@@ -4,7 +4,7 @@
 #include <sys/types.h>
 #include <sys/wait.h>
 #include <string.h>
-
+//checking
 #define MAX_INPUT_LENGTH 2048
 #define HISTORY_SIZE 100
 
